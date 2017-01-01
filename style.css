@@ -35,6 +35,7 @@ nav .rek{
 	margin-left: auto;
 	margin-right: auto;
 }
+
 .navbar a{
 	padding-left: 3px;
 	padding-right: 3px;
@@ -78,4 +79,20 @@ nav .rek{
 	background-image: url(ipad.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+.sectone h1{
+	width: 50%;
+	height: 25%;
+	position: relative;
+	bottom: -100px;
+	padding-top: 60px;
+	color: white;
+	margin: auto;
+	text-align: center;
+	position: relative;
+	bottom: -200px;
+	font-size: 100px;
+}
+.sub1 p{
+	color: white;
 }
