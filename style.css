@@ -43,6 +43,12 @@ nav .rek{
 	bottom: -8px;
 
 }
+#tre{
+	color:white;
+	margin-left: 50%;
+	margin-right: 50%;
+	display: inline-block;
+}
 .pt{
 	height: 50px;
 	background-color: rgba(0,0,0,.5);	
@@ -85,7 +91,7 @@ nav .rek{
 	height: 25%;
 	position: relative;
 	bottom: -100px;
-	padding-top: 60px;
+	
 	color: white;
 	margin: auto;
 	text-align: center;
@@ -95,4 +101,12 @@ nav .rek{
 }
 .sub1 p{
 	color: white;
+}
+.pic1{
+	height: 350px;
+	width: 350px;
+	position: absolute;
+	left:675px;
+	bottom: 175px;
+	border-radius: 50%;
 }
