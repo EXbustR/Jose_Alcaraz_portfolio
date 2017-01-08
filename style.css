@@ -118,7 +118,6 @@ p{
 	height: 25%;
 	position: relative;
 	bottom: -100px;
-	
 	color: white;
 	text-shadow: 4px 4px 0px rgba(0,0,0,0.2);
 	margin: auto;
@@ -136,9 +135,10 @@ p{
 	width: 350px;
 	position: absolute;
 	left:675px;
-	bottom: 175px;
+	bottom: 100px;
 	border-radius: 50%;
 	border: 2px solid lightgrey;
+	display: inline-block;
 }
 .dpa {
 	margin-left: auto;
